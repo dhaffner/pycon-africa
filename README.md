@@ -1,3 +1,5 @@
+## Setup
+
 ```
 $ git clone https://github.com/dhaffner/pycon-africa.git
 $ cd python-africa
